@@ -1,0 +1,21 @@
+# Dados gerados (nunca versionar)
+data/
+exports/
+logs/
+*.db
+*.bak
+*.xlsx
+!catalog/example_catalog.xlsx
+!examples/output/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
