@@ -1,5 +1,7 @@
 # Pesticide Price Pipeline
 
+**English** | [Português (Brasil)](README.pt-BR.md)
+
 ![tests](https://github.com/vitorzielinsky/pesticide-price-pipeline/actions/workflows/tests.yml/badge.svg)
 
 A Python pipeline that turns **unstructured Chinese-language market reports** into a **clean, auditable price table** for agrochemical products (herbicides, insecticides, fungicides), quoted in yuan per tonne.
